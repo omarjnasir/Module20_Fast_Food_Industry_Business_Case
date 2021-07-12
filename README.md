@@ -39,7 +39,7 @@ For the fast food industry, with the population remaining largely static, increa
 So, it became important for to calculate and predict the future GDP. The regression prediction model proved to be unsatisfactory as it could not match the existing data. This was supervised learning.
 Another model called the mathematical model proved better, it was piece-wise linear model, based on average growth rate of 5 years and updated every year with new data, it was a rolling forecast model.
 
-https://docs.google.com/presentation/u/0/- The graphs are availabe on this site under orginal presentation. Thanks
+The graphs are not read, but they are in 
  
 This model provided a glimmer of hope, it was almost right, both the lines were matched.
   
